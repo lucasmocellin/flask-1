@@ -576,7 +576,7 @@ object does not exist yet.  This is possible by utilizing the
 For this also see :ref:`about-responses`.
 
 Redirects, Errors and URL Building
---------------------
+----------------------------------
 
 Redirects, Errors
 `````````````````
