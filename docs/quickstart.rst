@@ -452,7 +452,7 @@ the ``flask`` module::
 
 The current request method is available by using the
 :attr:`~flask.Request.method` attribute.  To access form data (data
-transmitted in a ``POST`` or ``PUT`` request) you can use the
+transmitted in a ``POST`` or ``GET`` request) you can use the
 :attr:`~flask.Request.form` attribute.  Here is a full example of the two
 attributes mentioned above::
 
